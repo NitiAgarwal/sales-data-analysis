@@ -1,0 +1,11 @@
+﻿Date,Product,Region,Sales_Amount,Quantity
+01-01-2024,Laptop,North,50000,2
+02-01-2024,Mobile,South,30000,5
+03-01-2024,Tablet,East,15000,3
+04-01-2024,Laptop,West,55000,2
+05-01-2024,Mobile,North,28000,4
+01-02-2024,Tablet,South,18000,2
+05-02-2024,Laptop,East,60000,3
+10-02-2024,Mobile,West,35000,5
+01-03-2024,Laptop,North,52000,2
+10-03-2024,Tablet,East,17000,4
